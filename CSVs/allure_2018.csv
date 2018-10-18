@@ -1,0 +1,110 @@
+,List,Price,Product Name,Product Type,Skin Type,Year
+0,Natural Products,$82,Tata Harper Regenerating Cleanser,FACIAL CLEANSER,none,2018
+1,Natural Products,$60,Drunk Elephant Lala Retro Whipped Cream,FACIAL MOISTURIZER,none,2018
+2,Natural Products,$34,Drunk Elephant Umbra Sheer Physical Daily Defense SPF 30,FACIAL SUNSCREEN,none,2018
+3,Natural Products,$12,Alba Botanica Very Emollient Body Lotion in Original,BODY LOTION,none,2018
+4,Natural Products,$9,Alba Botanica Hawaiian Sunscreen Green Tea SPF 45,BODY SUNSCREEN,none,2018
+5,Natural Products,$12,Carol's Daughter Black Vanilla Moisture & Shine Sulfate-Free Shampoo,SHAMPOO AND CONDITIONER,none,2018
+6,Natural Products,$26,Aveda Smooth Infusion Naturally Straight,STYLING CREAM,none,2018
+7,Natural Products,$19,BareMinerals Flawless Definition Mascara,MASCARA,none,2018
+8,Natural Products,$41,BareMinerals Ready Eyeshadow 8.0 in The Power Neutrals,EYE SHADOW,none,2018
+9,Natural Products,$24,BareMinerals Ready Blush,BLUSH,none,2018
+10,Natural Products,$29,BareMinerals Original Foundation,FOUNDATION,none,2018
+11,Natural Products,$21,BareMinerals Correcting Concealer,CONCEALER,none,2018
+12,Natural Products,$30,BareMinerals Complexion Rescue Tinted Hydrating Gel Cream,TINTED MOISTURIZER,none,2018
+13,Natural Products,$3,Burt’s Bees Beeswax Lip Balm,LIP BALM,none,2018
+14,Natural Products,$9,Burt’s Bees Lipstick in Juniper Water,LIPSTICK,none,2018
+15,Skincare,$9,Garnier SkinActive Soothing Rose Water Cleansing Milk,FACIAL CLEANSER,Normal Skin,2018
+16,Skincare,$38,Tatcha The Deep Cleanse,FACIAL CLEANSER,Oily Skin,2018
+17,Skincare,$24,L’Occitane Shea 3-in-1 Cleansing Water,FACIAL CLEANSER,Dry Skin,2018
+18,Skincare,$6,Burt’s Bees Micellar Cleansing Towelettes,FACIAL CLEANSER,Cleansing Wipes,2018
+19,Skincare,$15,Lumene Valo Glow Lumenessence Brightening Beauty Lotion,TONER / ESSENCE,,2018
+20,Skincare,$12,"Mario Badescu Facial Spray with Aloe, Chamomile and Lavender",FACIAL MIST,,2018
+21,Skincare,$28,Honest Beauty Magic Organic Beauty Facial Oil,FACIAL OIL,,2018
+22,Skincare,$77,Clinique Fresh Pressed Daily Booster with Pure Vitamin C 10%,FACIAL SERUM,Antioxidant,2018
+23,Skincare,$75,Korres Wild Rose Spotless Serum 15% Vitamin C,FACIAL SERUM,Antioxidant,2018
+24,Skincare,$49,Caudalie Vinopure Skin Perfecting Serum,FACIAL SERUM,Clarifying,2018
+25,Skincare,$46,Dr. Jart+ Cicapair Tiger Grass Re.Pair Serum,FACIAL SERUM,Calming,2018
+26,Skincare,$22,Neutrogena Rapid Wrinkle Repair Serum,FACIAL SERUM,Retinol,2018
+27,Skincare,$36,Paula’s Choice Resist Omega+ Complex Serum,FACIAL SERUM,Hydrating,2018
+28,Skincare,$30,Olay Luminous Whip,FACIAL MOISTURIZER,Normal Skin,2018
+29,Skincare,$55,Ole Henriksen Counter Balance Oil Control Hydrator,FACIAL MOISTURIZER,Oily Skin,2018
+30,Skincare,$19,Clinique Moisture Surge 72-Hour Auto-Replenishing Hydrator,FACIAL MOISTURIZER,Dry Skin,2018
+31,Skincare,$65,StriVectin Multi-Action R&R Eye Cream,EYE CREAM,Line-Smoothing,2018
+32,Skincare,$23,RoC Retinol Correxion Sensitive Eye Cream,EYE CREAM,Line-Smoothing,2018
+33,Skincare,$42,Dr. Brandt Needles No More No More Baggage,EYE CREAM,Depuffing,2018
+34,Skincare,$70,Rodan + Fields Enhancements Active Hydration Bright Eye Complex,EYE CREAM,Moisturizing,2018
+35,Skincare,$34,Laneige Eye Sleeping Mask,EYE CREAM,Moisturizing,2018
+36,Skincare,$32,Shiseido Waso Soft + Cushy Polisher,FACIAL SCRUB,,2018
+37,Skincare,$9,Neutrogena Deep Clean Purifying Clay Cleanser and Mask,MASK,Oily Skin,2018
+38,Skincare,$69,Dior Hydra Life Glow Better Fresh Jelly Mask,MASK,Dull Skin,2018
+39,Skincare,$45,Kiehl’s Calendula & Aloe Soothing Hydration Masque,MASK,Dry Skin,2018
+40,Skincare,$60,Patchology Flashpatch Restoring Night Eye Gels,MASK,Eye Area,2018
+41,Skincare,$3,Simple Skincare De-Stress Sheet Mask,MASK,Sheet,2018
+42,Skincare,$14,Aveeno Positively Radiant Overnight Hydrating Facial,MASK,Overnight,2018
+43,Skincare,$32,Supergoop Unseen Sunscreen Broad Spectrum SPF 40,FACIAL SUNSCREEN,,2018
+44,Skincare,$33,EltaMD UV Clear Broad-Spectrum SPF 46,FACIAL SUNSCREEN,,2018
+45,Skincare,$48,Peter Thomas Roth 20% Glycolic Solutions Jumbo Peel Swab,PEEL,,2018
+46,Skincare,$5,Clean & Clear Persa-Gel 10,ACNE,Allover Treatment,2018
+47,Skincare,$22,Murad Rapid Relief Acne Spot Treatment,ACNE,Spot Treatment,2018
+48,Reader's Choice,$25,Vapour Organic Beauty Siren Lipstick,LIPSTICK,None,2018
+49,Reader's Choice,$5,Nyx Butter Gloss in Crème Brûlée,LIP GLOSS,None,2018
+50,Reader's Choice,$29,Tarte Amazonian Clay 12-Hour Blush,BLUSH,None,2018
+51,Reader's Choice,$54,Urban Decay Naked2 Palette,EYE SHADOW,None,2018
+52,Reader's Choice,$20,Kat Von D Tattoo Liner,EYELINER,None,2018
+53,Reader's Choice,$10,L’Oréal Paris Voluminous Lash Paradise Mascara,MASCARA,None,2018
+54,Reader's Choice,$30,Nars Radiant Creamy Concealer,CONCEALER,None,2018
+55,Reader's Choice,$38,IT Cosmetics Your Skin But Better CC+ Cream,BB/CC CREAM,None,2018
+56,Reader's Choice,$46,Vapour Organic Beauty Atmosphere Luminous Foundation,FOUNDATION,None,2018
+57,Reader's Choice,$11,OPI Nail Lacquer in Lincoln Park After Dark,NAIL POLISH,None,2018
+58,Reader's Choice,$6,Morphe M433 Pro Firm Blending Fluff Brush,MAKEUP BRUSH,None,2018
+59,Sensitive,$22,Skinfix Foaming Oil Cleanser,FACE CLEANSER,Sensitive,2018
+60,Sensitive,$20,Eau Thermale Avène Intense Eye Make-Up Remover,MAKEUP REMOVER,Sensitive,2018
+61,Sensitive,$8,Cetaphil Extra Gentle Daily Scrub,FACE SCRUB,Sensitive,2018
+62,Sensitive,$17,CeraVe Moisturizing Cream,BODY MOISTURIZER,Sensitive,2018
+63,Sensitive,$15,La Roche-Posay Lipikar Eczema Soothing Relief Cream,BODY MOISTURIZER,Sensitive,2018
+64,Sensitive,$6,Vaseline Clinical Care Extremely Dry Skin Rescue Healing Moisture Lotion,BODY MOISTURIZER,Sensitive,2018
+65,Sensitive,$8,Coppertone Defend & Care Sensitive Skin Sunscreen SPF 50,SUNSCREEN,Sensitive,2018
+66,Body Products,$20,Too Cool for School Coconut Milky Oil Shower,BODY WASH: Moisturizing,none,2018
+67,Body Products,$5,Olay Microscrubbing Cleansing Infusion Hydrating Glow Body Wash With Crushed Ginger,BODY WASH: Exfoliating,none,2018
+68,Body Products,$8,Seaweed Bath Co. Exfoliating Detox Body Soap,BODY WASH: Bar,none,2018
+69,Body Products,$18,Mary Kay Satin Body Revitalizing Shea Scrub,BODY SCRUB,none,2018
+70,Body Products,$7,Aveeno Positively Radiant Body Lotion,BODY LOTION: Light,none,2018
+71,Body Products,$45,Skinfix Calm & Nourish Body Cream,BODY LOTION: Rich,none,2018
+72,Body Products,$17,Dove DermaSeries Dry Skin Relief Expert Repairing Balm,BODY LOTION: Spot Treatment,none,2018
+73,Body Products,$50,Ren Clean Skincare Atlantic Kelp and Microalgae Anti-Fatigue Toning Body Oil,BODY LOTION: Oil,none,2018
+74,Body Products,$13,Neutrogena Hydro Boost Water Gel Lotion SPF 50,BODY SUNSCREEN,none,2018
+75,Body Products,$15,Bare Republic Mineral Vanilla-Coco Sunscreen Spray SPF 50,BODY SUNSCREEN,none,2018
+76,Body Products,$48,Coola Organic Sunless Tan Sculpting Mousse,BODY BRONZER: Traditional Self-Tanner,none,2018
+77,Body Products,$10,Jergens Natural Glow Daily Moisturizer,BODY BRONZER: Gradual Self-Tanner,none,2018
+78,Body Products,$45,Vita Liberata Body Blur HD Skin Finish,BODY BRONZER: Bronzer,none,2018
+79,Body Products,$35,Goop G.Nite Bedtime Bath Soak,BATH PRODUCT,none,2018
+80,Body Products,$14,Kopari Coconut Oil Deodorant,DEODORANT,none,2018
+81,Body Products,$6,Dove Dry Spray Antiperspirant in Rejuvenate,ANTIPERSPIRANT,none,2018
+82,Body Products,$5,EOS Shave Cream,HAIR REMOVAL: Shaving Cream,none,2018
+83,Body Products,$15,Gillette Venus Swirl,HAIR REMOVAL: Razor,none,2018
+84,Body Products,$20,Gillette Venus Bikini Precision,HAIR REMOVAL: Trimmer,none,2018
+85,Body Products,$45,Crest 3D White Professional Effects Whitestrips,TEETH WHITENER,none,2018
+86,Bases,$13,L’Oréal Paris Infallible Matte-Lock Mattifying Primer,PRIMER,None,2018
+87,Bases,$28,First Aid Beauty Hello Fab Coconut Skin Smoothie Priming Moisturizer,PRIMER,None,2018
+88,Bases,$44,Read the review +,PRIMER,None,2018
+89,Bases,$40,Dermablend Flawless Creator,FOUNDATION: Light Coverage,None,2018
+90,Bases,$46,Marc Jacobs Beauty Shameless Youthful-Look 24-H Foundation,FOUNDATION: Medium Coverage,None,2018
+91,Bases,$12,Maybelline New York SuperStay 24HR Full Coverage Foundation,FOUNDATION: Full Coverage,None,2018
+92,Bases,$42,Estée Lauder Double Wear Stay-in-Place Makeup,FOUNDATION: Long-Wearing,None,2018
+93,Bases,$30,BareMinerals Complexion Rescue Tinted Hydrating Gel Cream,FOUNDATION: BB Cream / Tinted Moisturizer,None,2018
+94,Bases,$10,Flower Beauty Flower Pots Powder Blush,BLUSH: Powder,None,2018
+95,Bases,$42,Wander Beauty On-the-Glow Blush and Illuminator,BLUSH: Cream,None,2018
+96,Bases,$10,Maybelline New York FaceStudio Master Chrome Metallic Highlighter,HIGHLIGHTER: Powder,None,2018
+97,Bases,$15,L’Oréal Paris True Match Lumi Glow Amour Glow Boosting Drops,HIGHLIGHTER: Liquid,None,2018
+98,Bases,$26,Ciaté London Dewy Stix,HIGHLIGHTER: Cream,None,2018
+99,Bases,$13,Milani Hypnotic Lights Powder Highlighter,HIGHLIGHTER: Holographic,None,2018
+100,Bases,$52,KKW Beauty Powder Contour & Highlight Kit,CONTOUR KIT,None,2018
+101,Bases,$38,Laura Mercier Translucent Pressed Setting Powder,POWDER: Pressed,None,2018
+102,Bases,$38,BECCA Cosmetics Hydra-Mist Set & Refresh Powder,POWDER: Loose,None,2018
+103,Bases,$28,Laura Mercier Flawless Fusion Ultra-Longwear Concealer,CONCEALER: Under-Eyes,None,2018
+104,Bases,$30,Nars Soft Matte Complete Concealer,CONCEALER: Blemishes,None,2018
+105,Bases,$49,Tan-Luxe The Face,FACIAL SELF-TANNER,None,2018
+106,Bases,$30,Too Faced Chocolate Soleil Bronzer,BRONZER: Matte,None,2018
+107,Bases,$48,Dior Diorskin Mineral Nude Bronze,BRONZER: Shimmer,None,2018
+108,Bases,$32,Urban Decay All Nighter Long Lasting Makeup Setting Spray,SETTING SPRAY,None,2018
